@@ -45,7 +45,7 @@ date: "2025-12-26"
 #### UMAP. Reclustering of only tumor cell clusters. Colored by cluster ID.
 ![](README_files/figure-html/load_tumor_only-1.png)<!-- -->
 
-### Split by condition - may need to re-integrate?
+### Split by condition - re-integrated
 
 ```
 ## [[1]]
@@ -74,12 +74,18 @@ date: "2025-12-26"
 
 ![](README_files/figure-html/tumor_only_split-4.png)<!-- -->
 
+### Alternative dimension reduction - ForceAtlas2
+![](README_files/figure-html/forceatlas2-1.png)<!-- -->
+
 
 
 ## Trajectory inference using PAGA and DPT
 ### Figure 5. 
 #### Pseudotime trajectory analysis of above tumor cell clustering (to define undifferentiated vs differentiated clusters).
 ![](README_files/figure-html/pseudotime-1.png)<!-- -->
+
+![](README_files/figure-html/pseudotime_FA-1.png)<!-- -->
+
 
 ### Figure 6. 
 #### Box plot of tumor cell clusters only divided by condition. Include statistical comparison information.
