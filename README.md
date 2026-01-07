@@ -25,6 +25,11 @@ date: "2025-12-26"
 #### UMAP colored by condition.
 ![](README_files/figure-html/umap_by_tumor-1.png)<!-- -->
 
+#### Heatmap
+#### GSEA - heatmap
+#### Microglia / macrophage differences
+#### QC
+
 ### Figure 3. 
 #### Box plot of all clusters divided by condition. Include statistical comparison information.
 
@@ -101,5 +106,21 @@ date: "2025-12-26"
 ![](README_files/figure-html/tumor_boxplot-1.png)<!-- -->
 
 ***
+## Heatmap
+### By cell
+
+
+
+### By cluster
+#### Scaled - restrict to just tumor clusters for main figure; can have all for supplemental
+![](README_files/figure-html/heatmap_mean_scaled-1.png)<!-- -->
+
+#### Midpoint 0
+![](README_files/figure-html/heatmap_mean-1.png)<!-- -->
+
+***
+
+## GSEA
+
 
 Built with R 4.5.2.
