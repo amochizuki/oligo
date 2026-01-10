@@ -50,47 +50,41 @@ date: "2025-12-26"
 #### UMAP. Reclustering of only tumor cell clusters. Colored by cluster ID.
 ![](README_files/figure-html/load_tumor_only-1.png)<!-- -->
 
-### Split by condition - re-integrated
+### Split by condition 
 
 ```
-## [[1]]
+## $Oligo_Cdkn2a
 ```
 
 ![](README_files/figure-html/tumor_only_split-1.png)<!-- -->
 
 ```
 ## 
-## [[2]]
+## $IDH_WT_GBM
 ```
 
 ![](README_files/figure-html/tumor_only_split-2.png)<!-- -->
 
 ```
 ## 
-## [[3]]
+## $Oligo_Trp53
 ```
 
 ![](README_files/figure-html/tumor_only_split-3.png)<!-- -->
 
 ```
 ## 
-## [[4]]
+## $Normal_Brain
 ```
 
 ![](README_files/figure-html/tumor_only_split-4.png)<!-- -->
 
-### Alternative dimension reduction - ForceAtlas2
-![](README_files/figure-html/forceatlas2-1.png)<!-- -->
-
-
-
-## Trajectory inference using PAGA and DPT
+## Trajectory inference using Monocle3
 ### Figure 5. 
 #### Pseudotime trajectory analysis of above tumor cell clustering (to define undifferentiated vs differentiated clusters).
 ![](README_files/figure-html/pseudotime-1.png)<!-- -->
 
-![](README_files/figure-html/pseudotime_FA-1.png)<!-- -->
-
+#### Differential expression as a function of pseudotime
 
 ### Figure 6. 
 #### Box plot of tumor cell clusters only divided by condition. Include statistical comparison information.
@@ -109,7 +103,7 @@ date: "2025-12-26"
 ## Heatmap
 ### By cell
 
-
+![](README_files/figure-html/heatmap-1.png)<!-- -->
 
 ### By cluster
 #### Scaled - restrict to just tumor clusters for main figure; can have all for supplemental
@@ -121,6 +115,10 @@ date: "2025-12-26"
 ***
 
 ## GSEA
+
+```
+## [1] "Under construction."
+```
 
 
 Built with R 4.5.2.
