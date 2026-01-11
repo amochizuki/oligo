@@ -1,0 +1,340 @@
+[1-classifier.TIM055_sample_filtered_feature_bc_matrix]
+FDR = 0.01
+
+[1-classifier.TIM056_sample_filtered_feature_bc_matrix]
+FDR = 0.01
+
+[1-classifier.TIM057_sample_filtered_feature_bc_matrix]
+FDR = 0.01
+
+[1-classifier.TIM058_sample_filtered_feature_bc_matrix]
+FDR = 0.01
+
+[1-classifier.TIM059_sample_filtered_feature_bc_matrix]
+FDR = 0.01
+
+[1-classifier.TIM060_sample_filtered_feature_bc_matrix]
+FDR = 0.01
+
+[1-classifier.TIM061_sample_filtered_feature_bc_matrix]
+FDR = 0.01
+
+[1-classifier.TIM062_sample_filtered_feature_bc_matrix]
+FDR = 0.01
+
+[1-classifier.TIM063_sample_filtered_feature_bc_matrix]
+FDR = 0.01
+
+[1-classifier.TIM064_sample_filtered_feature_bc_matrix]
+FDR = 0.01
+
+[1-classifier.TIM065_sample_filtered_feature_bc_matrix]
+FDR = 0.01
+
+[1-classifier.TIM066_sample_filtered_feature_bc_matrix]
+FDR = 0.01
+
+[1-classifier.TIM045X_sample_filtered_feature_bc_matrix]
+FDR = 0.01
+
+[1-classifier.TIM046X_sample_filtered_feature_bc_matrix]
+FDR = 0.01
+
+[1-classifier.TIM047X_sample_filtered_feature_bc_matrix]
+FDR = 0.01
+
+[1-classifier.TIM048X_sample_filtered_feature_bc_matrix]
+FDR = 0.01
+
+[2-cellSizeDistribution.TIM055_sample_filtered_feature_bc_matrix]
+binStep = 200
+minCellSize = 91892
+
+[2-cellSizeDistribution.TIM056_sample_filtered_feature_bc_matrix]
+binStep = 200
+minCellSize = 88852
+
+[2-cellSizeDistribution.TIM057_sample_filtered_feature_bc_matrix]
+binStep = 200
+minCellSize = 52661
+
+[2-cellSizeDistribution.TIM058_sample_filtered_feature_bc_matrix]
+binStep = 200
+minCellSize = 53079
+
+[2-cellSizeDistribution.TIM059_sample_filtered_feature_bc_matrix]
+binStep = 200
+minCellSize = 151633
+
+[2-cellSizeDistribution.TIM060_sample_filtered_feature_bc_matrix]
+binStep = 200
+minCellSize = 197965
+
+[2-cellSizeDistribution.TIM061_sample_filtered_feature_bc_matrix]
+binStep = 200
+minCellSize = 81950
+
+[2-cellSizeDistribution.TIM062_sample_filtered_feature_bc_matrix]
+binStep = 200
+minCellSize = 81265
+
+[2-cellSizeDistribution.TIM063_sample_filtered_feature_bc_matrix]
+binStep = 200
+minCellSize = 98004
+
+[2-cellSizeDistribution.TIM064_sample_filtered_feature_bc_matrix]
+binStep = 200
+minCellSize = 60287
+
+[2-cellSizeDistribution.TIM065_sample_filtered_feature_bc_matrix]
+binStep = 200
+minCellSize = 96917
+
+[2-cellSizeDistribution.TIM066_sample_filtered_feature_bc_matrix]
+binStep = 200
+minCellSize = 88152
+
+[2-cellSizeDistribution.TIM045X_sample_filtered_feature_bc_matrix]
+binStep = 200
+minCellSize = 72052
+
+[2-cellSizeDistribution.TIM046X_sample_filtered_feature_bc_matrix]
+binStep = 200
+minCellSize = 75486
+
+[2-cellSizeDistribution.TIM047X_sample_filtered_feature_bc_matrix]
+binStep = 200
+minCellSize = 61277
+
+[2-cellSizeDistribution.TIM048X_sample_filtered_feature_bc_matrix]
+binStep = 200
+minCellSize = 74047
+
+[3-mitochondrialContent.TIM055_sample_filtered_feature_bc_matrix]
+method = absoluteThreshold
+binStep = 0.3
+maxFraction = 0.005938702
+
+[3-mitochondrialContent.TIM056_sample_filtered_feature_bc_matrix]
+method = absoluteThreshold
+binStep = 0.3
+maxFraction = 0.005417118
+
+[3-mitochondrialContent.TIM057_sample_filtered_feature_bc_matrix]
+method = absoluteThreshold
+binStep = 0.3
+maxFraction = 0.01593528
+
+[3-mitochondrialContent.TIM058_sample_filtered_feature_bc_matrix]
+method = absoluteThreshold
+binStep = 0.3
+maxFraction = 0.01356374
+
+[3-mitochondrialContent.TIM059_sample_filtered_feature_bc_matrix]
+method = absoluteThreshold
+binStep = 0.3
+maxFraction = 0.005409603
+
+[3-mitochondrialContent.TIM060_sample_filtered_feature_bc_matrix]
+method = absoluteThreshold
+binStep = 0.3
+maxFraction = 0.005328189
+
+[3-mitochondrialContent.TIM061_sample_filtered_feature_bc_matrix]
+method = absoluteThreshold
+binStep = 0.3
+maxFraction = 0.005609059
+
+[3-mitochondrialContent.TIM062_sample_filtered_feature_bc_matrix]
+method = absoluteThreshold
+binStep = 0.3
+maxFraction = 0.005952935
+
+[3-mitochondrialContent.TIM063_sample_filtered_feature_bc_matrix]
+method = absoluteThreshold
+binStep = 0.3
+maxFraction = 0.00520047
+
+[3-mitochondrialContent.TIM064_sample_filtered_feature_bc_matrix]
+method = absoluteThreshold
+binStep = 0.3
+maxFraction = 0.005415162
+
+[3-mitochondrialContent.TIM065_sample_filtered_feature_bc_matrix]
+method = absoluteThreshold
+binStep = 0.3
+maxFraction = 0.005557575
+
+[3-mitochondrialContent.TIM066_sample_filtered_feature_bc_matrix]
+method = absoluteThreshold
+binStep = 0.3
+maxFraction = 0.005331363
+
+[3-mitochondrialContent.TIM045X_sample_filtered_feature_bc_matrix]
+method = absoluteThreshold
+binStep = 0.3
+maxFraction = 0.006008584
+
+[3-mitochondrialContent.TIM046X_sample_filtered_feature_bc_matrix]
+method = absoluteThreshold
+binStep = 0.3
+maxFraction = 0.005730428
+
+[3-mitochondrialContent.TIM047X_sample_filtered_feature_bc_matrix]
+method = absoluteThreshold
+binStep = 0.3
+maxFraction = 0.005298013
+
+[3-mitochondrialContent.TIM048X_sample_filtered_feature_bc_matrix]
+method = absoluteThreshold
+binStep = 0.3
+maxFraction = 0.005293246
+
+[4-numGenesVsNumUmis.TIM055_sample_filtered_feature_bc_matrix]
+regressionType = spline
+p.level = 0.0001132759
+
+[4-numGenesVsNumUmis.TIM056_sample_filtered_feature_bc_matrix]
+regressionType = spline
+p.level = 0.00009344048
+
+[4-numGenesVsNumUmis.TIM057_sample_filtered_feature_bc_matrix]
+regressionType = spline
+p.level = 0.00009119927
+
+[4-numGenesVsNumUmis.TIM058_sample_filtered_feature_bc_matrix]
+regressionType = spline
+p.level = 0.000114771
+
+[4-numGenesVsNumUmis.TIM059_sample_filtered_feature_bc_matrix]
+regressionType = spline
+p.level = 0.00008873114
+
+[4-numGenesVsNumUmis.TIM060_sample_filtered_feature_bc_matrix]
+regressionType = spline
+p.level = 0.0001004823
+
+[4-numGenesVsNumUmis.TIM061_sample_filtered_feature_bc_matrix]
+regressionType = spline
+p.level = 0.001
+
+[4-numGenesVsNumUmis.TIM062_sample_filtered_feature_bc_matrix]
+regressionType = spline
+p.level = 0.0001129944
+
+[4-numGenesVsNumUmis.TIM063_sample_filtered_feature_bc_matrix]
+regressionType = spline
+p.level = 0.00008002561
+
+[4-numGenesVsNumUmis.TIM064_sample_filtered_feature_bc_matrix]
+regressionType = spline
+p.level = 0.0001237777
+
+[4-numGenesVsNumUmis.TIM065_sample_filtered_feature_bc_matrix]
+regressionType = spline
+p.level = 0.0001085187
+
+[4-numGenesVsNumUmis.TIM066_sample_filtered_feature_bc_matrix]
+regressionType = spline
+p.level = 0.00009521996
+
+[4-numGenesVsNumUmis.TIM045X_sample_filtered_feature_bc_matrix]
+regressionType = spline
+p.level = 0.00007392076
+
+[4-numGenesVsNumUmis.TIM046X_sample_filtered_feature_bc_matrix]
+regressionType = spline
+p.level = 0.00007785737
+
+[4-numGenesVsNumUmis.TIM047X_sample_filtered_feature_bc_matrix]
+regressionType = spline
+p.level = 0.000101688
+
+[4-numGenesVsNumUmis.TIM048X_sample_filtered_feature_bc_matrix]
+regressionType = spline
+p.level = 0.0001007252
+
+[5-doubletScores.TIM055_sample_filtered_feature_bc_matrix]
+binStep = 0.02
+probabilityThreshold = 0.4450093
+
+[5-doubletScores.TIM056_sample_filtered_feature_bc_matrix]
+binStep = 0.02
+probabilityThreshold = 0.4237304
+
+[5-doubletScores.TIM057_sample_filtered_feature_bc_matrix]
+binStep = 0.02
+probabilityThreshold = 0.4759446
+
+[5-doubletScores.TIM058_sample_filtered_feature_bc_matrix]
+binStep = 0.02
+probabilityThreshold = 0.4521705
+
+[5-doubletScores.TIM059_sample_filtered_feature_bc_matrix]
+binStep = 0.02
+probabilityThreshold = 0.4872152
+
+[5-doubletScores.TIM060_sample_filtered_feature_bc_matrix]
+binStep = 0.02
+probabilityThreshold = 0.3814495
+
+[5-doubletScores.TIM061_sample_filtered_feature_bc_matrix]
+binStep = 0.02
+probabilityThreshold = 0.3727773
+
+[5-doubletScores.TIM062_sample_filtered_feature_bc_matrix]
+binStep = 0.02
+probabilityThreshold = 0.3910435
+
+[5-doubletScores.TIM063_sample_filtered_feature_bc_matrix]
+binStep = 0.02
+probabilityThreshold = 0.4747944
+
+[5-doubletScores.TIM064_sample_filtered_feature_bc_matrix]
+binStep = 0.02
+probabilityThreshold = 0.4484248
+
+[5-doubletScores.TIM065_sample_filtered_feature_bc_matrix]
+binStep = 0.02
+probabilityThreshold = 0.3973176
+
+[5-doubletScores.TIM066_sample_filtered_feature_bc_matrix]
+binStep = 0.02
+probabilityThreshold = 0.4022901
+
+[5-doubletScores.TIM045X_sample_filtered_feature_bc_matrix]
+binStep = 0.02
+probabilityThreshold = 0.3469654
+
+[5-doubletScores.TIM046X_sample_filtered_feature_bc_matrix]
+binStep = 0.02
+probabilityThreshold = 0.4371886
+
+[5-doubletScores.TIM047X_sample_filtered_feature_bc_matrix]
+binStep = 0.02
+probabilityThreshold = 0.441427
+
+[5-doubletScores.TIM048X_sample_filtered_feature_bc_matrix]
+binStep = 0.02
+probabilityThreshold = 0.4360736
+
+[6-dataIntegration]
+analysisTool = scanpy
+
+[6-dataIntegration.dataIntegration]
+method = harmony
+numGenes = 2000
+normalisation = logNormalize
+
+[6-dataIntegration.dimensionalityReduction]
+method = rpca
+numPCs = 30
+
+[7-configureEmbedding.embeddingSettings]
+method = umap
+distanceMetric = cosine
+minimumDistance = 0.3
+
+[7-configureEmbedding.clusteringSettings]
+method = leiden
+resolution = 0.8
